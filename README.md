@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janarthananbabu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning PYTHON
+- 🌱==
 - 💞️ I’m looking to collaborate on pepole
 - 📫 How to reach
 
